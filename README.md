@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MscAKilic
+- 👀 I’m interested in software
+- 🌱 I’m currently learning .NET improvements
